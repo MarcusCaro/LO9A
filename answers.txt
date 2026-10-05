@@ -1,0 +1,1 @@
+3 good exception handling practices include providing a full exception message to ensure clarity, minimizing the amount of unnecessary exceptions used to improve performance, and to avoid using empty catch blocks to prevent object corruption and hidden catches.
